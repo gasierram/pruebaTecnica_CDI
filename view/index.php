@@ -26,7 +26,7 @@ echo '<p ><a href="http://localhost:8080/pruebacdi/view/logout.php">Logout</a></
       <div class="row">
         <div class="col-lg-12 col-md-6 text-center">
         	<button id="btnCrear" class="btn btn-primary" >Crear Radicado</button>	  
-        	<p>ometext-centertext-centertext-centertext-centertext-centertext-centertext-centertext-centertext-centertext-centertext-centertext-centertext-centertext-centertext-centertext-centertext-centertext-centertext-centertext-centertext-centertext-centertext-centertext-centertext-centertext-centertext-centertext-centertext-centertext-centertext-centertext-centertext-centertext-centertext-centertext-center</p>
+        	<br>
         </div>        
         <div class="col-lg-12 col-md-6 text-center">
         	  <button id="btnConsultar" class="btn btn-primary">Consultar Radicado</button>
